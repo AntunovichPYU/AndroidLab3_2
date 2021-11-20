@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidLab3_2</string>
+    <string name="to_second_button">To Second</string>
+    <string name="to_third_button">To Third</string>
+    <string name="to_first_button">To First</string>
+    <string name="about">About</string>
+</resources>
